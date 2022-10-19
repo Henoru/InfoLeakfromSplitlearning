@@ -1,5 +1,7 @@
 # data
-data/*
+data/dac/
+*.npy
+*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
